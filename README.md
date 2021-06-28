@@ -3,6 +3,9 @@
 University Project to simulate and analyse COVID-19.
 This experiment only includes the original COVID-19.
 
+## URL
+https://niksanjp.github.io/COVID-19-Simulation-Analysis-1.github.io/
+
 ## Problem
 Covid-19 or SARS-COV-2 was first detected in Wuhan China, has spread around the world. This virus in its first 
 year has infected over 135 million people and killed almost 3 million people around the globe. It has costs 
